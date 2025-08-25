@@ -19,4 +19,4 @@ Belajar kelas Pengenalan ke Logika Pemrograman (Progress 100%)
 **25 Agustus 2025**<br>
 Belajar Belajar Dasar Git dengan GitHub (Progress 38%)
 * Belajar sejarah github, kegunaan, konsep, dan cara penggunaan nya
-
+* Melakukan Check in Harian Pertama
